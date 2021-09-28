@@ -1,0 +1,9 @@
+{
+  "name": "node-docker-test",
+  "version": "1.0.0",
+  "description": "A Node Docker Test",
+  "main": "index.js",
+  "repository": "https://github.com/EhevuTov/node-docker-test",
+  "author": "James Gosnell",
+  "license": "MIT"
+}
